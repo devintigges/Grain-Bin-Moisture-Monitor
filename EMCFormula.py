@@ -1,0 +1,1 @@
+# python script for finding the polynomial regression for EMC given data table
